@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1505864411098" name="http://www.semanticweb.org/nabin/ontologies/2017/8/website-classification" uri="ass2.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1505866038273" name="http://www.semanticweb.org/nabin/ontologies/2017/8/website-classification" uri="ass2.owl"/>
     </group>
 </catalog>

@@ -21,6 +21,12 @@
     
 
 
+    <!-- http://www.semanticweb.org/nabin/ontologies/2017/8/website-classification#ABCD -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/nabin/ontologies/2017/8/website-classification#ABCD"/>
+    
+
+
     <!-- http://www.semanticweb.org/nabin/ontologies/2017/8/website-classification#newclasssometihng -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/nabin/ontologies/2017/8/website-classification#newclasssometihng"/>
